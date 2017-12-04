@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 = REST test push from multi-tenant namespace
+=======
+= REST API Level 0 - Eclipse Vert.x Booster
+>>>>>>> refs/heads/master
 
 IMPORTANT: This booster requires Java 8 or greater and Maven 3.3.x or greater.
 
